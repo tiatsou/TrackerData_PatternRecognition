@@ -2,7 +2,7 @@
 Using R to find any insightful pattern from the tracker data
 
 This is a Google Analytics Certificate Project. Data used in this project was retrieved from [Kaggle](https://www.kaggle.com/arashnic/fitbit).There are two main goals for this analysis:
-**1.** Find the trend in the data   **2.**The usage of the trend.
+**1.** Find the trend in the data   **2.** The usage of the trend.
 
 ## Environment Set up
 ```{r}
