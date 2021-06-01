@@ -309,7 +309,7 @@ According to two of the zoomed in data, which the first one grouped and counted 
 
 2. *Id* 8877689391 is tall, which caused only the *WeightPounds* raised. Besides, April 26th has only one record, which is *Id* 8877689391. That explained although *Id* 8877689391 has total 24 records in the *WeightLog* data, only April 26th was affected.
 
-- The above assumptions are based on the information I have, further validation would need more data such as height.
+- The above assumptions are based on the information I have, and further validation would need more data such as height.
 
 
 ## Reference
