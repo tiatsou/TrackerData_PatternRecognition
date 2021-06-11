@@ -317,15 +317,4 @@ FitBit Fitness Tracker Data. Kaggle. [https://www.kaggle.com/arashnic/fitbit](ht
 
 ggplot2 : Quick correlation matrix heatmap - R software and data visualization. STHDA.
 http://www.sthda.com/english/wiki/ggplot2-quick-correlation-matrix-heatmap-r-software-and-data-visualization
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
